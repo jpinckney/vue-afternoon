@@ -5,7 +5,7 @@
 -------------------------------------------------------------------
 Applicant,
 
-Thank you for your interest in our company and the front end developer position that we are currently trying to fill. At Mountain Peak Software, we pride ourselves on staying on the cutting edge of technology within the relm of web development. This means that we expect our entire dev team to be continuously learning.
+Thank you for your interest in our company and the front end developer position that we are currently trying to fill. At Mountain Peak Software, we pride ourselves on staying on the cutting edge of technology within the realm of web development. This means that we expect our entire dev team to be continuously learning.
 
 We would like to build a portion of our website in VueJS and we are looking for a front end dev who can demonstrate that they can competently code in VueJS. If you don't know VueJS, or if you are new to VueJS, this is your chance to prove to us that you can learn quickly and adapt.
 
